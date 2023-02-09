@@ -3,6 +3,7 @@
   width: 500px;
   margin: 50px auto;
   text-align: center;
+  background-color: #191818;
 }
 
 .todo-list li {
